@@ -6,6 +6,6 @@ authors:
 description: Allow use of JSON Maps in dot notation format
 homepage: https://github.com/chrisbu/dartwatch-JsonObject
 environment:
-  sdk: '>=0.6.0+1.r24898'
-dev_dependencies:
-  unittest: '>=0.6.0+1'
+  sdk: '>=2.0.0'
+# dev_dependencies:
+#   unittest: '>=0.6.0+1'
